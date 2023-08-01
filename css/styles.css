@@ -64,10 +64,15 @@ button.downbutt{
 }
 
 
-/* fetucres */
+/* features */
+#features{
+    padding-top: 50px;
+}
+
 
 div.featuresDivs{
     text-align: center;
+    margin: 35px 0;
 }
 
 h3.featuresHeading{
@@ -86,9 +91,12 @@ p.featuresSub{
 .featuresIcon{
     color: #ef8172;
     font-size: 3.5rem;
-    line-height: 2;
+
+    margin-bottom: 15px;
 }
 
 .featuresIcon:hover{
     color: #ff4c68;
 }
+
+
